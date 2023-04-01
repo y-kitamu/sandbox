@@ -1,0 +1,6 @@
+[submodule "modules/argparse"]
+	path = modules/argparse
+	url = https://github.com/p-ranav/argparse.git
+[submodule "modules/glob"]
+	path = modules/glob
+	url = https://github.com/p-ranav/glob.git
